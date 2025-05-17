@@ -135,6 +135,3 @@ python app.py
 ```
 
 The app is configured to use port 5001 to avoid conflicts with AirPlay.
-
----
-Answer from Perplexity: pplx.ai/share
